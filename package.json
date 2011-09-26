@@ -4,5 +4,6 @@
     , "private": true
     , "dependencies": {
       "jasmine-node": "1.0.9"
+      , "vows": '0.5.11'
     }
 }
